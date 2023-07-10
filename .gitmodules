@@ -1,0 +1,6 @@
+[submodule "src/mp11"]
+	path = src/external/mp11
+	url = https://github.com/boostorg/mp11.git
+[submodule "src/nanobench"]
+	path = src/external/nanobench
+	url = https://github.com/martinus/nanobench.git

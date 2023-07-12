@@ -1,0 +1,17 @@
+-std=c++11
+-m64
+-pthread
+-DOPENFOAM=2212
+-DWM_DP
+-DWM_LABEL_SIZE=32
+-Wall
+-Wextra
+-Wold-style-cast
+-Wnon-virtual-dtor
+-Wno-unused-parameter
+-Wno-invalid-offsetof
+-Wno-attributes
+-Wno-unknown-pragmas
+-DNoRepository
+-ftemplate-depth-100
+-fPIC

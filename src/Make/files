@@ -1,0 +1,5 @@
+field_traversal_benchmark.C
+microdomains.cpp
+manual_loop.cpp
+
+EXE = $(FOAM_USER_APPBIN)/field_traversal_benchmark

@@ -1,5 +1,5 @@
 # OpenFOAM_Workshop_2023_Demo
-Demo code accompanying the talk "Implementing memory locality optimizations in OpemFOAM based code"
+Demo code accompanying the talk "Implementing memory locality optimizations in OpenFOAM based code"
 by Ilya Popov and Dmitry Astakhov, ISTEQ BV, 2023
 
 This is demo not suitable for real world use yet.

@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "field-traversal"
+version = "0.1.0"
+description = ""
+authors = ["Ilya Popov <ilya.popov@isteq.nl>"]
+readme = "README.md"
+packages = [{include = "field_traversal"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+numpy = "^1.25.0"
+matplotlib = "^3.7.1"
+pandas = "^2.0.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
